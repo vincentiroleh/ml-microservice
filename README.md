@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/vincentiroleh/ml-microservice/tree/main.svg?style=svg)](https://circleci.com/gh/vincentiroleh/ml-microservice/tree/main)
 
 ## Project Overview
 
